@@ -1,0 +1,9 @@
+com\grigorovich\strategy\students\TheThirdTypeStudent.class
+com\grigorovich\strategy\Main.class
+com\grigorovich\strategy\students\TheSecondTypeStudent.class
+com\grigorovich\strategy\students\Students.class
+com\grigorovich\strategy\optionStrategy\TheSecondTypeStrategy.class
+com\grigorovich\strategy\students\TheFirstTypeStudent.class
+com\grigorovich\strategy\optionStrategy\TheThirdTypeStrategy.class
+com\grigorovich\strategy\optionStrategy\LearnStrategy.class
+com\grigorovich\App.class
